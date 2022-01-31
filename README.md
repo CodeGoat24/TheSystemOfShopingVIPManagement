@@ -15,23 +15,7 @@
     用户名：admin
     密码：123
 
-## 系统总体设计
-
-![image-20220131225224008](C:\Users\zy\AppData\Roaming\Typora\typora-user-images\image-20220131225224008.png)
-
-![图片1](C:\Users\zy\Desktop\图片1.png)
-
-![image-20220131225251616](C:\Users\zy\AppData\Roaming\Typora\typora-user-images\image-20220131225251616.png)
-
-
-
-![image-20220131225308291](C:\Users\zy\AppData\Roaming\Typora\typora-user-images\image-20220131225308291.png)
-
-
-
-![image-20220131225321307](C:\Users\zy\AppData\Roaming\Typora\typora-user-images\image-20220131225321307.png)
-
-![image-20220131225331703](C:\Users\zy\AppData\Roaming\Typora\typora-user-images\image-20220131225331703.png)
+## 系统界面设计
 
 
 
@@ -53,7 +37,7 @@
 
   (1)JDBC:使用Druid连接池技术
 
-  (2)Dao:
+  (2)Dao: 使用JdbcTemplate操作数据库
 
   (1)CommodityDao：连接商品信息表
 
