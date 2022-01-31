@@ -16,8 +16,13 @@
     密码：123
 
 ## 系统界面设计
-
-
+ 
+<img width="508" alt="image" src="./project_img/image-20220131225224008.png">
+<img width="508" alt="image" src="./project_img/image-20220131225251616.png">
+<img width="508" alt="image" src="./project_img/image-20220131225308291.png">
+<img width="508" alt="image" src="./project_img/image-20220131225321307.png">
+<img width="508" alt="image" src="./project_img/image-20220131225331703.png">
+<img width="508" alt="image" src="./project_img/图片1.png">
 
 ## 主程序的设计
 
